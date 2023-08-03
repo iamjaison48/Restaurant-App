@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+                           RESTAURANT LISTING App
+
+1.Create a new app npx create-react-app restaurant listing app
+2.cd restaurant listing app
+3.code .
+4.run the application npm start
+5.Clean the code
+6.Choose a theme using bootswatch and import it into index.js
+7.copy and paste fontawesome cdnjs into the index.html
+8.google fonts index.css
+
+9.create components
+  header(js,css) and footer(js,css)
